@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="open">Openr</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_foodapp67_gmail_com">contact@foodappgmail.com</string>
+    <string name="food_app">Food App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+    <string name="share_fragment">Share Fragment</string>
+    <string name="aboutapp_fragment">About App Fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="foodappnav">foodappnav</string>
+</resources>
